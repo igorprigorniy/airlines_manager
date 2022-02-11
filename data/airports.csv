@@ -1,0 +1,2109 @@
+CDG,France,10
+DFW,United States,10
+ORD,United States,10
+JFK,United States,10
+LAX,United States,10
+ATL,United States,10
+MAD,Spain,10
+FRA,Germany,10
+LHR,United Kingdom,10
+IST,Turkey,10
+DXB,United Arab Emirates,10
+HND,Japan,8
+HKG,China,10
+AMS,Netherlands,10
+PKX,China,10
+PEK,China,10
+LAS,United States,10
+CGK,Indonesia,10
+IAH,United States,10
+SIN,Singapore,10
+BKK,Thailand,10
+SFO,United States,10
+PHX,United States,10
+CLT,United States,9
+CAN,China,10
+PVG,China,10
+MIA,United States,10
+DMK,Thailand,10
+MCO,United States,10
+FCO,Italy,10
+SYD,Australia,10
+MUC,Germany,10
+EWR,United States,10
+NRT,Japan,10
+LGW,United Kingdom,10
+MSP,United States,10
+SEA,United States,10
+DTW,United States,10
+YYZ,Canada,10
+PHL,United States,9
+DEL,India,10
+ICN,South Korea,10
+BCN,Spain,10
+ORY,France,10
+BOM,India,10
+MEL,Australia,10
+KUL,Malaysia,10
+BOS,United States,9
+GRU,Brazil,10
+TPE,Taiwan,10
+MEX,Mexico,10
+IAD,United States,10
+MED,Saudi Arabia,10
+SHA,China,10
+LGA,United States,5
+DUB,Ireland,7
+SZX,China,10
+PMI,Spain,10
+MAN,United Kingdom,9
+ZRH,Switzerland,10
+STN,United Kingdom,9
+BWI,United States,9
+FLL,United States,7
+SLC,United States,10
+RUH,Saudi Arabia,10
+CTU,China,10
+KOP,Thailand,6
+MNL,Philippines,10
+BNE,Australia,10
+VIE,Austria,10
+OSL,Norway,10
+DME,Russia,10
+MXP,Italy,10
+HNL,United States,10
+ITM,Japan,8
+BRU,Belgium,10
+CTS,Japan,8
+BOG,Colombia,10
+JNB,South Africa,10
+DUS,Germany,8
+FUK,Japan,8
+KMG,China,10
+YVR,Canada,10
+DCA,United States,5
+SAN,United States,8
+TPA,United States,10
+MDW,United States,4
+AYT,Turkey,10
+CPH,Denmark,10
+KIX,Japan,10
+ARN,Sweden,10
+ATH,Greece,10
+SGN,Vietnam,10
+DOH,Qatar,10
+JED,Saudi Arabia,10
+OKA,Japan,8
+SVO,Russia,10
+CGH,Brazil,4
+TXL,Germany,9
+XIY,China,8
+MPM,Mozambique,10
+HGH,China,10
+PDX,United States,10
+CAI,Egypt,10
+GMP,South Korea,10
+AKL,New Zealand,10
+BSB,Brazil,10
+AHB,Saudi Arabia,10
+STL,United States,10
+LIS,Portugal,10
+CKG,China,9
+HEL,Finland,10
+YUL,Canada,10
+AGP,Spain,9
+YYC,Canada,10
+NGO,Japan,10
+GVA,Switzerland,10
+MAA,India,10
+CJU,South Korea,8
+GIG,Brazil,10
+CUN,Mexico,10
+KNO,Indonesia,10
+BLR,India,10
+CVG,United States,10
+NCE,France,8
+PRG,Czech Republic,10
+PER,Australia,10
+MEM,United States,10
+TLV,Israel,10
+MCI,United States,10
+XMN,China,10
+WUH,China,10
+CGN,Germany,10
+STR,Germany,10
+LPA,Spain,9
+BHV,Pakistan,8
+CLE,United States,7
+NKG,China,10
+LTN,United Kingdom,5
+CCU,India,10
+OAK,United States,9
+HAM,Germany,10
+SNA,United States,4
+RDU,United States,9
+SMF,United States,7
+SUB,Indonesia,9
+BNA,United States,10
+ALC,Spain,8
+LYS,France,10
+SJC,United States,10
+CCS,Venezuela,10
+THR,Iran,10
+HOU,United States,6
+TAO,China,10
+AUS,United States,10
+WAW,Poland,10
+BHX,United Kingdom,7
+EDI,United Kingdom,7
+DLC,China,10
+AUH,United Arab Emirates,10
+LIM,Peru,10
+PIT,United States,10
+MSY,United States,9
+SCL,Chile,10
+MKE,United States,8
+LIN,Italy,6
+TFS,Spain,9
+SAT,United States,7
+IND,United States,10
+SJU,Puerto Rico,9
+RSW,United States,10
+MRS,France,10
+CPT,South Africa,9
+ADD,Ethiopia,10
+GLA,United Kingdom,7
+DAL,United States,7
+BUD,Hungary,10
+KWI,Kuwait,10
+HAK,China,10
+TLS,France,10
+BGY,Italy,8
+BBU,Romania,9
+HYD,India,9
+BFF,United States,7
+EZE,Argentina,10
+SYX,China,10
+ADL,Australia,9
+PUS,South Korea,9
+SSH,Egypt,9
+VKO,Russia,9
+SSA,Brazil,9
+LOS,Nigeria,10
+PAP,Haiti,9
+KAN,Nigeria,10
+VCE,Italy,10
+SHE,China,9
+CMH,United States,9
+CNF,Brazil,8
+GDL,Mexico,10
+CGO,China,10
+ALG,Algeria,10
+PBI,United States,9
+ABQ,United States,10
+YEG,Canada,10
+HRG,Egypt,10
+BRS,United Kingdom,5
+CTA,Italy,6
+POA,Brazil,6
+DPS,Indonesia,8
+HAV,Cuba,10
+JAX,United States,9
+SAW,Turkey,8
+CTM,Mexico,5
+CHC,New Zealand,10
+URC,China,10
+CEB,Philippines,10
+MTY,Mexico,8
+HRB,China,9
+CMN,Morocco,10
+CDB,United States,9
+BAH,Bahrain,10
+BUF,United States,7
+ADB,Turkey,9
+VLC,Spain,9
+ESB,Turkey,10
+KHI,Pakistan,10
+BDL,United States,8
+MLH,France,10
+KOJ,Japan,8
+LED,Russia,10
+NCL,United Kingdom,6
+NBO,Kenya,10
+OGG,United States,5
+VOG,Russia,6
+ASF,Russia,6
+CEK,Russia,9
+NAP,Italy,7
+OMS,Russia,8
+OOL,Australia,6
+HKT,Thailand,8
+WLG,New Zealand,4
+GRO,Spain,6
+EMA,United Kingdom,8
+REC,Brazil,10
+BLQ,Italy,8
+ACE,Spain,6
+CWB,Brazil,5
+DAC,Bangladesh,9
+ONT,United States,10
+TNA,China,10
+KBP,Ukraine,10
+HER,Greece,7
+LPL,United Kingdom,6
+TSN,China,10
+AEP,Argentina,5
+BUR,United States,5
+VCP,Brazil,9
+CRL,Belgium,7
+BSL,Switzerland,10
+BFS,United Kingdom,8
+KWE,China,9
+BGO,Norway,8
+BEY,Lebanon,10
+ANC,United States,10
+SHJ,United Arab Emirates,10
+ISB,Pakistan,10
+HAJ,Germany,10
+FOC,China,10
+LCA,Cyprus,8
+RGN,Myanmar [Burma],10
+PVD,United States,5
+KWL,China,8
+FAO,Portugal,7
+UIO,Ecuador,9
+FOR,Brazil,7
+CIA,Italy,5
+IBZ,Spain,8
+OTP,Romania,10
+OMA,United States,8
+BFU,China,7
+BOD,France,9
+FUE,Spain,6
+WNZ,China,6
+SVQ,Spain,10
+PMO,Italy,10
+ABV,Nigeria,10
+COK,India,10
+BKI,Malaysia,10
+OPO,Portugal,10
+DUR,South Africa,10
+YOW,Canada,9
+NUE,Germany,7
+AMM,Jordan,10
+TYN,China,9
+BIO,Spain,7
+BVA,France,6
+SKG,Greece,6
+GOT,Sweden,10
+PTY,Panama,9
+NNG,China,7
+RNO,United States,10
+TFN,Spain,10
+PSA,Italy,8
+TUS,United States,10
+KHH,Taiwan,9
+LOP,Indonesia,7
+CGP,Bangladesh,8
+IKA,Iran,10
+MCT,Oman,10
+ALA,Kazakhstan,10
+CNS,Australia,9
+MIR,Tunisia,8
+SJO,Costa Rica,9
+MFM,China,10
+ORF,United States,7
+TUN,Tunisia,9
+SVG,Norway,7
+AMD,India,10
+OKC,United States,8
+RIC,United States,7
+SDF,United States,10
+TRD,Norway,8
+NGB,China,9
+NTE,France,8
+YHZ,Canada,7
+YWG,Canada,10
+TIJ,Mexico,8
+TRN,Italy,10
+KHN,China,8
+DMM,Saudi Arabia,10
+MHT,United States,8
+ABZ,United Kingdom,4
+UPG,Indonesia,9
+CGQ,China,9
+BPN,Indonesia,6
+BRI,Italy,6
+CAG,Italy,8
+TSA,Taiwan,7
+DAM,Syria,10
+ELP,United States,10
+ECP,United States,9
+GEG,United States,7
+RIX,Latvia,9
+GYE,Ecuador,8
+RHO,Greece,10
+SDJ,Japan,8
+LHE,Pakistan,10
+BTH,Indonesia,10
+BHM,United States,9
+HAN,Vietnam,10
+CBR,Australia,10
+TUL,United States,9
+KMJ,Japan,8
+LGB,United States,9
+KMI,Japan,6
+BOI,United States,9
+KGS,Greece,6
+DLM,Turkey,8
+MBJ,Jamaica,7
+VRN,Italy,9
+DSS,Senegal,10
+PIU,Peru,6
+BHJ,India,7
+LIH,United States,4
+ALB,United States,7
+KCH,Malaysia,6
+PVR,Mexico,9
+LBA,United Kingdom,5
+MLA,Malta,10
+ROC,United States,6
+CNX,Thailand,9
+HFE,China,8
+KOA,United States,10
+PEN,Malaysia,10
+ORK,Ireland,5
+WMI,Poland,6
+SOF,Bulgaria,10
+TIP,Libya,10
+RAK,Morocco,9
+KRK,Poland,7
+NKC,Mauritania,9
+GOI,India,10
+DAY,United States,10
+BHD,United Kingdom,4
+NAS,The Bahamas,10
+SNN,Ireland,9
+UKB,Japan,6
+MYJ,Japan,6
+LAD,Angola,10
+VIX,Brazil,4
+NGS,Japan,8
+BDJ,Indonesia,6
+BEG,Serbia,10
+HET,China,10
+LHW,China,10
+BJV,Turkey,8
+MAR,Venezuela,8
+BLL,Denmark,9
+JOG,Indonesia,5
+LIT,United States,7
+NYO,Sweden,8
+KMQ,Japan,7
+GUA,Guatemala,8
+FLN,Brazil,6
+PNQ,India,7
+MAH,Spain,6
+CMB,Sri Lanka,10
+CHS,United States,7
+SDQ,Dominican Republic,10
+TRV,India,10
+DTM,Germany,4
+KCZ,Japan,6
+MLE,Maldives,9
+SJD,Mexico,8
+GUM,Guam,9
+PIK,United Kingdom,8
+BEL,Brazil,8
+HPN,United States,4
+LEJ,Germany,10
+SYZ,Iran,10
+SYR,United States,7
+FNC,Portugal,8
+ADA,Turkey,7
+MRU,Mauritius,10
+POS,Trinidad and Tobago,9
+KTM,Nepal,9
+TLC,Mexico,10
+ISP,United States,5
+NAT,Brazil,7
+KTW,Poland,8
+TSF,Italy,6
+DJE,Tunisia,9
+GYN,Brazil,6
+COS,United States,10
+DAV,Panama,5
+KEF,Iceland,9
+PMV,Venezuela,9
+HKD,Japan,8
+HHN,Germany,10
+TAS,Uzbekistan,10
+SVX,Russia,9
+LJG,China,6
+PWM,United States,5
+INC,China,9
+CCJ,India,8
+KBL,Afghanistan,10
+KKJ,Japan,6
+REP,Cambodia,7
+CWL,United Kingdom,6
+BTS,Slovakia,9
+GRR,United States,9
+CGB,Brazil,6
+HBA,Australia,6
+DVO,Philippines,8
+SOU,United Kingdom,4
+WUX,China,9
+SUF,Italy,6
+AWZ,Iran,10
+LXR,Egypt,8
+SZG,Austria,7
+PRN,Kosovo,7
+GSO,United States,9
+MJV,Spain,6
+ZAG,Croatia,10
+DSM,United States,7
+TIA,Albania,7
+CLO,Colombia,8
+GAU,India,9
+SCQ,Spain,9
+SFB,United States,8
+AVK,Mongolia,6
+YNT,China,7
+OIT,Japan,8
+ILO,Philippines,6
+AQP,Peru,8
+BGI,Barbados,10
+ATA,Peru,9
+TYS,United States,7
+VNO,Lithuania,7
+PNH,Cambodia,8
+DRS,Germany,8
+PTP,Guadeloupe,10
+BAX,Russia,8
+SAV,United States,8
+JHG,China,5
+BRE,Germany,5
+ODS,Ukraine,8
+CHQ,Greece,10
+DNK,Ukraine,8
+RUN,R?union,9
+JER,United Kingdom,4
+GYD,Azerbaijan,9
+AUA,Aruba,8
+PKU,Indonesia,5
+SAL,El Salvador,9
+BFM,United States,8
+TOS,Norway,6
+REU,Spain,6
+PUJ,Dominican Republic,10
+LUX,Luxembourg,10
+BOJ,Bulgaria,9
+EIN,Netherlands,8
+MSN,United States,7
+OLB,Italy,6
+TPS,Italy,7
+DRW,Australia,10
+TSV,Australia,6
+PNS,United States,5
+PSP,United States,9
+BOO,Norway,10
+IFN,Iran,10
+FMO,Germany,5
+PFO,Cyprus,7
+CAK,United States,6
+ICT,United States,9
+TRF,Norway,8
+OVD,Spain,5
+JAI,India,8
+BDS,Italy,7
+YYJ,Canada,5
+TLL,Estonia,9
+BTV,United States,7
+MYR,United States,8
+MMX,Sweden,8
+SXM,Netherlands Antilles,5
+OVB,Russia,10
+ALP,Syria,8
+MHD,Iran,10
+LKO,India,7
+BCD,Philippines,4
+GDN,Poland,8
+KIN,Jamaica,7
+SRQ,United States,8
+JZH,China,9
+NRN,Germany,6
+TAK,Japan,6
+MPL,France,7
+RYG,Norway,6
+ITO,United States,8
+JJN,China,7
+FYV,United States,4
+JAN,United States,7
+TZX,Turkey,7
+LJU,Slovenia,10
+BWN,Brunei,10
+FDF,Martinique,10
+PLZ,South Africa,4
+GSP,United States,10
+PLM,Indonesia,6
+GRX,Spain,8
+KRR,Russia,8
+AAL,Denmark,7
+MDT,United States,9
+AJA,France,6
+AGA,Morocco,9
+AHO,Italy,8
+YLW,Canada,7
+VAR,Bulgaria,6
+PPT,French Polynesia,10
+DAR,Tanzania,8
+AXT,Japan,6
+XRY,Spain,6
+WRO,Poland,6
+AER,Russia,8
+LIL,France,8
+POM,Papua New Guinea,7
+FAT,United States,8
+HSV,United States,10
+VGO,Spain,6
+KWJ,South Korea,8
+ACC,Ghana,10
+SAH,Yemen,10
+NAN,Fiji,10
+EVN,Armenia,10
+LCG,Spain,4
+PDG,Indonesia,7
+MCZ,Brazil,7
+CUZ,Peru,10
+GOA,Italy,10
+MYY,Malaysia,7
+SXB,France,6
+HDY,Thailand,9
+LST,Australia,4
+DAD,Vietnam,9
+AOJ,Japan,9
+KIJ,Japan,6
+SLZ,Brazil,6
+PAD,Germany,6
+BIQ,France,5
+ZUH,China,10
+CJB,India,7
+MDL,Myanmar [Burma],10
+AKJ,Japan,6
+CTG,Colombia,7
+LBB,United States,10
+XNA,United States,7
+MBA,Kenya,10
+RTM,Netherlands,6
+CAE,United States,7
+NTL,Australia,6
+BIA,France,7
+ACY,United States,9
+PHC,Nigeria,9
+EBB,Uganda,10
+NAG,India,9
+MMY,Japan,4
+PNK,Indonesia,6
+YYT,Canada,7
+XNN,China,8
+USM,Thailand,5
+PHF,United States,6
+HMO,Mexico,6
+CGY,Philippines,6
+FNT,United States,6
+MKY,Australia,4
+POZ,Poland,7
+ETH,Israel,4
+SJW,China,10
+JHB,Malaysia,10
+ABJ,Ivory Coast,8
+TAE,South Korea,8
+BES,France,9
+SWA,China,6
+MVD,Uruguay,9
+FKB,Germany,10
+MLG,Indonesia,4
+BOH,United Kingdom,6
+MID,Mexico,9
+LEX,United States,5
+CID,United States,7
+VVO,Russia,10
+SPC,Spain,5
+ALY,Egypt,5
+TAC,Philippines,5
+TBZ,Iran,10
+TSE,Kazakhstan,10
+IGU,Brazil,5
+CGR,Brazil,7
+KGD,Russia,6
+USN,South Korea,4
+BBI,India,5
+SPU,Croatia,7
+INN,Austria,4
+SID,Cape Verde,10
+MCY,Australia,4
+DYG,China,7
+MLI,United States,9
+KUF,Russia,9
+YXE,Canada,7
+YQR,Canada,6
+MMB,Japan,6
+UFA,Russia,10
+YQB,Canada,7
+ORN,Algeria,9
+ASB,Turkmenistan,10
+LEI,Spain,9
+POP,Dominican Republic,9
+SBA,United States,4
+BGW,Iraq,10
+SXR,India,10
+GRZ,Austria,8
+TAG,Philippines,6
+KJA,Russia,10
+VRA,Cuba,10
+CUL,Mexico,6
+DBV,Croatia,10
+CJJ,South Korea,7
+BAQ,Colombia,8
+KZN,Russia,10
+LGK,Malaysia,10
+FAI,United States,10
+MAF,United States,8
+ASW,Egypt,10
+LLA,Sweden,10
+KHV,Russia,10
+CUR,Netherlands Antilles,10
+COR,Argentina,9
+GPT,United States,7
+DIY,Turkey,10
+BAV,China,6
+BJX,Mexico,10
+PEW,Pakistan,7
+SGF,United States,6
+KRS,Norway,5
+DSA,United Kingdom,8
+BZV,Congo - Brazzaville,10
+KBR,Malaysia,5
+BKO,Mali,7
+AMA,United States,10
+ZTH,Greece,5
+PAT,India,4
+BIL,United States,9
+ABE,United States,6
+AES,Norway,6
+MGA,Nicaragua,6
+CFU,Greece,6
+MFE,United States,5
+EOH,Colombia,7
+BGR,United States,10
+IDR,India,6
+SDR,Spain,6
+MSQ,Belarus,10
+UME,Sweden,6
+KLO,Philippines,5
+PIE,United States,8
+DUD,New Zealand,4
+SGC,Russia,8
+IKT,Russia,9
+VSA,Mexico,5
+NVT,Brazil,4
+MPH,Philippines,4
+HRL,United States,7
+VER,Mexico,6
+UBJ,Japan,6
+AJU,Brazil,5
+VPS,United States,10
+TLH,United States,6
+BEN,Libya,10
+KIV,Moldova,10
+CRP,United States,6
+STI,Dominican Republic,7
+BTR,United States,6
+DYU,Tajikistan,9
+DJJ,Indonesia,5
+AQI,Saudi Arabia,8
+EXT,United Kingdom,5
+FIH,Congo - Kinshasa,10
+TSR,Romania,10
+BLI,United States,5
+JPA,Brazil,7
+IOM,United Kingdom,4
+FAR,United States,7
+DLA,Cameroon,8
+PDL,Portugal,6
+ZQN,New Zealand,4
+EUG,United States,6
+IXE,India,8
+GRB,United States,7
+DWC,United Arab Emirates,10
+BZN,United States,7
+LBV,Gabon,8
+JNU,United States,7
+BND,Iran,10
+KTA,Australia,4
+GSE,Sweden,5
+JTR,Greece,5
+MZT,Mexico,7
+FRU,Kyrgyzstan,10
+FSD,United States,7
+TJM,Russia,9
+FKS,Japan,6
+SZF,Turkey,8
+LNZ,Austria,8
+CHA,United States,6
+PUF,France,6
+AJF,Saudi Arabia,10
+YMM,Canada,4
+ROA,United States,5
+LUN,Zambia,10
+JAC,United States,4
+IXA,India,6
+TRZ,India,6
+INV,United Kingdom,4
+SBN,United States,7
+ANU,Antigua and Barbuda,7
+UDI,Brazil,4
+BGA,Colombia,5
+GZT,Turkey,8
+THE,Brazil,5
+TLN,France,5
+WDH,Namibia,10
+SIP,Ukraine,10
+CUU,Mexico,7
+LPB,Bolivia,10
+SDV,Israel,4
+IXJ,India,5
+TRS,Italy,8
+ROK,Australia,7
+VVI,Bolivia,10
+BDA,Bermuda,8
+ACA,Mexico,10
+OUL,Finland,7
+RMF,Egypt,8
+AVL,United States,6
+YQT,Canada,4
+YNJ,China,7
+HRE,Zimbabwe,10
+CLJ,Romania,5
+PMC,Chile,7
+GCN,United States,7
+SBW,Malaysia,8
+SZB,Malaysia,10
+LWO,Ukraine,7
+SPN,Northern Mariana Islands,7
+ASR,Turkey,8
+AMQ,Indonesia,6
+SKP,North Macedonia,6
+LDB,Brazil,5
+TNR,Madagascar,9
+KBV,Thailand,9
+MME,United Kingdom,6
+OBO,Japan,6
+AFW,United States,8
+VTZ,India,9
+MFR,United States,7
+ASJ,Japan,4
+FDH,Germany,6
+AZA,United States,9
+VAN,Turkey,7
+MDZ,Argentina,8
+MOB,United States,7
+PLU,Brazil,7
+GIZ,Saudi Arabia,9
+CND,Romania,10
+FRL,Italy,6
+ATW,United States,6
+ASP,Australia,6
+AWA,Ethiopia,10
+MSO,United States,8
+KER,Iran,10
+BRC,Argentina,6
+CVT,United Kingdom,5
+PMR,New Zealand,4
+IXB,India,8
+FSZ,Japan,6
+ATQ,India,10
+HOG,Cuba,9
+UYN,China,4
+SXF,Germany,8
+NOC,Ireland,6
+CEI,Thailand,8
+RSU,South Korea,5
+ROV,Russia,6
+CRW,United States,4
+PSC,United States,6
+CRK,Philippines,9
+CJS,Mexico,7
+HAU,Norway,5
+RAP,United States,7
+IXC,India,7
+BLK,United Kingdom,4
+PPS,Philippines,7
+TMP,Finland,7
+REG,Italy,4
+SAP,Honduras,8
+SRG,Indonesia,7
+FWA,United States,10
+ELS,South Africa,4
+UVF,Saint Lucia,7
+ZAZ,Spain,10
+MAO,Brazil,7
+MJT,Greece,6
+BMI,United States,6
+YQM,Canada,6
+ZIH,Mexico,6
+WEH,China,7
+ASU,Paraguay,10
+SHV,United States,7
+TWU,Malaysia,7
+ADZ,Colombia,6
+LBC,Germany,5
+PEE,Russia,9
+EVE,Norway,8
+RPR,India,4
+SDK,Malaysia,5
+CBB,Bolivia,10
+AAR,Denmark,8
+HAH,Comoros,8
+KSH,Iran,10
+VNS,India,5
+YIH,China,7
+RDM,United States,5
+SCN,Germany,4
+FAY,United States,6
+PIA,United States,9
+TGZ,Mexico,6
+SMR,Colombia,4
+RNS,France,5
+ASE,United States,5
+VLN,Venezuela,8
+MDE,Colombia,10
+ACK,United States,4
+RMI,Italy,8
+IXZ,India,10
+NQN,Argentina,7
+MLM,Mexico,10
+IMF,India,7
+TBS,Georgia,8
+GRK,United States,9
+AAQ,Russia,6
+FSC,France,6
+TGU,Honduras,4
+YHM,Canada,9
+ZAM,Philippines,7
+CXR,Vietnam,9
+ABS,Egypt,8
+DOK,Ukraine,6
+GJT,United States,9
+ERZ,Turkey,10
+TRI,United States,6
+IQT,Peru,6
+PVH,Brazil,6
+TUU,Saudi Arabia,9
+LDE,France,8
+BTJ,Indonesia,6
+PZO,Venezuela,5
+CUE,Ecuador,4
+AOI,Italy,8
+LFT,United States,6
+AVP,United States,6
+BRN,Switzerland,4
+CHO,United States,4
+TIV,Montenegro,7
+IGR,Argentina,10
+KSC,Slovakia,9
+PEI,Colombia,5
+MCP,Brazil,5
+YXX,Canada,8
+WUS,China,5
+EAS,Spain,4
+NWI,United Kingdom,4
+ZNZ,Tanzania,6
+CCF,France,5
+LDY,United Kingdom,4
+UUS,Russia,10
+AGS,United States,6
+YIW,China,6
+VTE,Laos,8
+SMI,Greece,5
+KHG,China,9
+HLZ,New Zealand,5
+MRY,United States,6
+JMK,Greece,4
+PSR,Italy,6
+LBU,Malaysia,6
+TVC,United States,4
+BDQ,India,6
+DAB,United States,9
+VLL,Spain,8
+CFE,France,9
+SWF,United States,10
+PNA,Spain,5
+BZE,Belize,5
+CUC,Colombia,6
+HYN,China,6
+HLD,China,7
+FAE,Denmark,4
+NQY,United Kingdom,7
+AAE,Algeria,8
+PGF,France,6
+BON,Netherlands Antilles,8
+CZX,China,8
+YXU,Canada,7
+BRQ,Czech Republic,7
+LAP,Mexico,6
+BQN,Puerto Rico,10
+FMM,Germany,8
+IXM,India,4
+SRZ,Bolivia,8
+FEZ,Morocco,9
+BJL,Gambia,10
+YKS,Russia,10
+BIS,United States,7
+OAX,Mexico,6
+ENH,China,5
+SLU,Saint Lucia,4
+KSU,Norway,4
+EGE,United States,7
+TNG,Morocco,10
+MRV,Russia,10
+AGH,Sweden,4
+USH,Argentina,8
+SJJ,Bosnia and Herzegovina,7
+ULN,Mongolia,9
+RAI,Cape Verde,5
+XUZ,China,10
+MXL,Mexico,7
+YCU,China,8
+LGG,Belgium,10
+HUI,Vietnam,7
+BTU,Malaysia,7
+BHY,China,9
+COO,Benin,6
+DSN,China,6
+PLS,Turks and Caicos Islands,6
+CAY,French Guiana,9
+CIY,Italy,6
+LIG,France,6
+KLU,Austria,7
+TGG,Malaysia,8
+YQU,Canada,4
+HME,Algeria,8
+TRC,Mexico,7
+TAM,Mexico,7
+MLX,Turkey,10
+YXS,Canada,10
+GNB,France,9
+HSN,China,6
+TGD,Montenegro,6
+NOU,New Caledonia,9
+SKB,Saint Kitts and Nevis,6
+MGM,United States,7
+LFW,Togo,8
+ADE,Yemen,9
+SLA,Argentina,8
+LGP,Philippines,6
+OUA,Burkina Faso,9
+FCA,United States,7
+EVV,United States,6
+ALF,Norway,5
+PHE,Australia,6
+KUN,Lithuania,10
+CFS,Australia,5
+GES,Philippines,9
+BDO,Indonesia,5
+BET,United States,4
+CZM,Mexico,7
+CLY,France,6
+EGC,France,5
+UDR,India,6
+ZCL,Mexico,8
+GBE,Botswana,8
+HEA,Afghanistan,7
+AEX,United States,8
+IQQ,Chile,10
+TKU,Finland,6
+OSD,Sweden,6
+BXU,Philippines,4
+CWA,United States,6
+AZO,United States,4
+MBS,United States,6
+DGT,Philippines,4
+EFL,Greece,6
+MTR,Colombia,4
+EAM,Saudi Arabia,9
+HUY,United Kingdom,5
+DRO,United States,8
+SCE,United States,5
+TIF,Saudi Arabia,10
+STM,Brazil,6
+VBY,Sweden,4
+ZHA,China,6
+AGU,Mexico,8
+FTE,Argentina,7
+PBM,Suriname,10
+LIR,Costa Rica,7
+IXR,India,7
+LAN,United States,6
+GTF,United States,9
+SBP,United States,4
+LNK,United States,10
+FKI,Congo - Kinshasa,10
+LUM,China,5
+BHO,India,5
+HAS,Saudi Arabia,10
+ERI,United States,4
+BNK,Australia,4
+IDA,United States,7
+KRT,Sudan,8
+PMW,Brazil,6
+SLL,Oman,10
+FBM,Congo - Kinshasa,9
+CCP,Chile,6
+EWN,United States,4
+TSJ,Japan,4
+GIB,Gibraltar,4
+JRO,Tanzania,10
+ETZ,France,9
+LRM,Dominican Republic,8
+ABX,Australia,4
+YDF,Canada,4
+ELQ,Saudi Arabia,8
+FPO,The Bahamas,10
+KKN,Norway,5
+HSG,Japan,4
+RAO,Brazil,5
+MDC,Indonesia,7
+NSK,Russia,10
+BFN,South Africa,7
+RBR,Brazil,5
+REL,Argentina,7
+AXD,Greece,7
+OAJ,United States,5
+YZF,Canada,6
+HUX,Mexico,7
+KPO,South Korea,5
+CMF,France,5
+KVA,Greece,8
+GPS,Ecuador,6
+AYQ,Australia,7
+RBA,Morocco,10
+ERF,Germany,7
+RST,United States,8
+VRB,United States,6
+KIS,Kenya,4
+YYG,Canada,5
+XIC,China,10
+PAC,Panama,4
+ELM,United States,5
+RVN,Finland,9
+ACV,United States,4
+YTH,Canada,4
+ITH,United States,5
+UET,Pakistan,10
+MUB,Botswana,4
+NUX,Russia,7
+YRT,Canada,4
+GRJ,South Africa,4
+LRH,France,6
+DLH,United States,9
+CKY,Guinea,10
+KGI,Australia,4
+GND,Grenada,7
+HDN,United States,9
+HTS,United States,4
+CZL,Algeria,8
+KRP,Denmark,8
+UEO,Japan,4
+VAA,Finland,7
+GOM,Congo - Kinshasa,4
+ANF,Chile,7
+CIH,China,7
+LAE,Papua New Guinea,6
+SDL,Sweden,5
+PBC,Mexico,10
+YQX,Canada,9
+YFC,Canada,6
+SOC,Indonesia,7
+URT,Thailand,8
+FNA,Sierra Leone,9
+HTY,Turkey,9
+IFP,United States,6
+OUD,Morocco,8
+AZD,Iran,10
+ZQW,Germany,8
+SEZ,Seychelles,8
+KDH,Afghanistan,9
+RAR,Cook Islands,6
+BZR,France,4
+APL,Mozambique,4
+NDR,Morocco,8
+LCJ,Poland,6
+NDJ,Chad,9
+MEC,Ecuador,8
+ATZ,Egypt,9
+DIB,India,4
+RAJ,India,4
+WKJ,Japan,4
+IXU,India,6
+PUQ,Chile,8
+TRG,New Zealand,4
+LTI,Mongolia,6
+PMF,Italy,5
+WGA,Australia,4
+MLB,United States,9
+NJC,Russia,9
+LYI,China,6
+SZZ,Poland,6
+BGM,United States,5
+LZH,China,6
+MUX,Pakistan,7
+IVC,New Zealand,5
+LMP,Italy,4
+CJC,Chile,8
+KYA,Turkey,10
+RNN,Denmark,5
+PUY,Croatia,8
+APW,Samoa,8
+GFK,United States,5
+LSE,United States,7
+LRD,United States,7
+MQL,Australia,4
+TOF,Russia,6
+KTN,United States,6
+OSS,Kyrgyzstan,7
+KUO,Finland,8
+NSI,Cameroon,10
+SFT,Sweden,5
+JDO,Brazil,4
+LLW,Malawi,10
+AOR,Malaysia,7
+ZYL,Bangladesh,9
+IXL,India,8
+ZNE,Australia,5
+BFL,United States,10
+LYG,China,6
+KSY,Turkey,10
+LMM,Mexico,4
+FNI,France,6
+YSJ,Canada,5
+ROT,New Zealand,4
+SSG,Equatorial Guinea,8
+PVK,Greece,8
+GAJ,Japan,4
+DZA,Mayotte,4
+IMP,Brazil,4
+TXN,China,7
+YEV,Canada,4
+GRQ,Netherlands,4
+ROB,Liberia,10
+VPE,Angola,9
+BBO,Somalia,10
+YQQ,Canada,9
+MJZ,Russia,8
+TUC,Argentina,8
+MMK,Russia,6
+LYH,United States,5
+RFD,United States,9
+JIB,Djibouti,9
+PCL,Peru,8
+HRK,Ukraine,5
+LRT,France,6
+NIM,Niger,9
+PPP,Australia,5
+MWZ,Tanzania,9
+KUA,Malaysia,8
+PBO,Australia,5
+BEW,Mozambique,6
+MAB,Brazil,4
+OSR,Czech Republic,10
+RZE,Poland,9
+OCC,Ecuador,5
+LVI,Zambia,6
+TOL,United States,9
+MLU,United States,6
+CMI,United States,6
+SDD,Angola,8
+FLO,United States,4
+MTJ,United States,9
+ISA,Australia,7
+KRL,China,8
+YVQ,Canada,4
+TPP,Peru,7
+KTT,Finland,6
+ZCO,Chile,4
+VFA,Zimbabwe,6
+TRU,Peru,9
+ABI,United States,5
+KEJ,Russia,9
+RNB,Sweden,6
+HLN,United States,7
+BBA,Chile,7
+MDG,China,7
+ARI,Chile,5
+BRO,United States,6
+KIR,Ireland,4
+HOR,Portugal,4
+ENA,United States,6
+DBO,Australia,4
+YYR,Canada,10
+SFQ,Turkey,5
+ENU,Nigeria,6
+BDU,Norway,6
+SLP,Mexico,9
+ZLO,Mexico,5
+REX,Mexico,4
+YKA,Canada,6
+MQM,Turkey,7
+ADQ,United States,6
+JDZ,China,6
+CBO,Philippines,4
+HLP,Indonesia,8
+LYP,Pakistan,8
+URA,Kazakhstan,6
+NVA,Colombia,4
+KRN,Sweden,7
+POL,Mozambique,4
+PNZ,Brazil,9
+CLL,United States,5
+JUL,Peru,10
+LOH,Ecuador,5
+CUF,Italy,5
+PSE,Puerto Rico,5
+CBQ,Nigeria,6
+RDZ,France,5
+TYR,United States,5
+EMD,Australia,4
+EBJ,Denmark,7
+RXS,Philippines,4
+AEY,Iceland,6
+BVB,Brazil,7
+KGL,Rwanda,10
+FSM,United States,6
+CGD,China,7
+OST,Belgium,9
+YUM,United States,10
+CAB,Angola,6
+LYA,China,6
+RTW,Russia,5
+GEO,Guyana,6
+CRD,Argentina,7
+ACT,United States,5
+NTG,China,6
+BJA,Algeria,6
+KLR,Sweden,5
+YXY,Canada,8
+DIL,East Timor,4
+YBP,China,5
+PDP,Uruguay,5
+GOJ,Russia,8
+HBE,Egypt,10
+HIR,Solomon Islands,5
+ABT,Saudi Arabia,10
+BGF,Central African Republic,7
+DGO,Mexico,8
+YTS,Canada,4
+TKN,Japan,4
+IXS,India,4
+TER,Portugal,10
+MST,Netherlands,6
+BHK,Uzbekistan,8
+BHH,Saudi Arabia,9
+FLG,United States,5
+OTZ,United States,4
+LCE,Honduras,9
+SIT,United States,4
+DNR,France,5
+YSB,Canada,5
+LWS,United States,4
+VXO,Sweden,5
+PEM,Peru,10
+RTB,Honduras,5
+LEN,Spain,5
+HVB,Australia,4
+FUJ,Japan,4
+CPR,United States,9
+LAW,United States,7
+TCQ,Peru,6
+YWK,Canada,4
+AKX,Kazakhstan,9
+DOM,Dominica,10
+TAP,Mexico,4
+PBG,United States,10
+VXE,Cape Verde,4
+KGP,Russia,7
+PGD,United States,5
+RIY,Yemen,9
+ETM,Israel,10
+HIN,South Korea,7
+MQP,South Africa,9
+DIG,China,10
+DPL,Philippines,4
+TCP,Egypt,10
+DLU,China,6
+MOT,United States,6
+TIR,India,6
+RJK,Croatia,6
+RLG,Germany,7
+PGV,United States,4
+OME,United States,4
+SLY,Russia,7
+DPO,Australia,4
+BSR,Iraq,10
+LZO,China,6
+CIF,China,4
+LPQ,Laos,5
+YIN,China,6
+BJM,Burundi,10
+TMW,Australia,5
+AOK,Greece,6
+NBE,Tunisia,10
+KOW,China,5
+DOL,France,7
+WXN,China,8
+PBH,Bhutan,4
+GWT,Germany,5
+SHM,Japan,4
+HGA,Somalia,6
+LCH,United States,4
+BCM,Romania,6
+MTT,Mexico,5
+VBS,Italy,8
+CEN,Mexico,6
+YKM,United States,6
+YCD,Canada,5
+RGL,Argentina,10
+AXM,Colombia,5
+SYM,China,6
+UIP,France,5
+SJT,United States,6
+CFR,France,4
+SCU,Cuba,10
+BZG,Poland,6
+YFB,Canada,7
+VST,Sweden,7
+RDD,United States,5
+OGZ,Russia,8
+SPI,United States,6
+ONJ,Japan,4
+IAS,Romania,4
+TJA,Bolivia,9
+LTK,Syria,8
+HTN,China,9
+DIR,Ethiopia,7
+KUV,South Korea,7
+EBU,France,6
+JMU,China,5
+KAD,Nigeria,8
+PIS,France,6
+YNB,Saudi Arabia,9
+NBC,Russia,7
+LYR,Norway,6
+TMR,Algeria,10
+AKU,China,6
+MLW,Liberia,4
+LSC,Chile,4
+YNZ,China,5
+LAO,Philippines,8
+PZI,China,8
+SBZ,Romania,9
+MZR,Afghanistan,9
+RKT,United Arab Emirates,10
+PZU,Sudan,6
+IOA,Greece,6
+MGQ,Somalia,9
+CSG,United States,5
+SYY,United Kingdom,5
+BAL,Turkey,9
+VUP,Colombia,5
+BUX,Congo - Kinshasa,4
+IAM,Algeria,8
+SMX,United States,4
+SUN,United States,6
+TBU,Tonga,7
+XIL,China,4
+HLA,South Africa,8
+MQT,United States,10
+YVO,Canada,9
+CJA,Peru,6
+DAX,China,5
+ZAD,Croatia,6
+YXT,Canada,6
+TLM,Algeria,7
+GLK,Somalia,8
+KGA,Congo - Kinshasa,5
+GGT,The Bahamas,5
+NRK,Sweden,5
+SRE,Bolivia,8
+DNZ,Turkey,8
+PSO,Colombia,6
+YZV,Canada,4
+JUZ,China,4
+AOC,Germany,5
+SFJ,Greenland,8
+PSM,United States,10
+EYP,Colombia,7
+VOZ,Russia,5
+KVD,Azerbaijan,7
+GET,Australia,4
+GMA,Congo - Kinshasa,4
+CRV,Italy,4
+LXS,Greece,9
+JOE,Finland,6
+BRW,United States,4
+DBQ,United States,4
+STW,Russia,7
+DNH,China,8
+YAM,Canada,4
+NOS,Madagascar,5
+YXJ,Canada,5
+RAE,Saudi Arabia,9
+GOV,Australia,5
+SGU,United States,5
+VLI,Vanuatu,7
+SZY,Poland,6
+YKF,Canada,5
+FNJ,North Korea,10
+UUD,Russia,8
+URY,Saudi Arabia,9
+BSA,Somalia,4
+HOM,United States,5
+NZH,China,8
+EGS,Iceland,4
+IVL,Finland,6
+XFN,China,6
+NNY,China,6
+TNE,Japan,4
+TDD,Bolivia,6
+SKD,Uzbekistan,9
+ELH,The Bahamas,4
+BSD,China,6
+CIX,Peru,7
+HVN,United States,4
+SPS,United States,10
+GTR,United States,4
+KNX,Australia,4
+VLD,United States,6
+KSA,Micronesia,4
+ZSE,R?union,5
+DHN,United States,7
+HTA,Russia,8
+IBE,Colombia,4
+MOC,Brazil,5
+TUG,Philippines,4
+YQY,Canada,5
+YUY,Canada,6
+YQG,Windsor Airport,7
+GUC,United States,8
+PKC,Russia,10
+KLX,Greece,8
+NDB,Mauritania,6
+ERC,Turkey,8
+PGA,United States,4
+AKN,United States,7
+ALW,United States,4
+CZS,Brazil,6
+LPI,Sweden,5
+VAS,Turkey,10
+YYQ,Canada,8
+PXO,Portugal,9
+ABY,United States,5
+OER,Sweden,5
+CSO,Germany,6
+HAD,Sweden,6
+SJI,Philippines,4
+NAV,Turkey,8
+AAN,United Arab Emirates,10
+KEM,Finland,7
+APO,Colombia,5
+PUW,United States,5
+WVB,Namibia,5
+SCC,United States,4
+ROW,United States,10
+HLE,Saint Helena,4
+WUA,China,6
+LET,Colombia,5
+YXC,Canada,6
+BLJ,Algeria,8
+EJA,Colombia,4
+YPR,Canada,4
+HPH,Vietnam,6
+NDG,China,7
+THS,Thailand,5
+MSR,Turkey,10
+LNJ,China,6
+GAN,Maldives,7
+OGN,Japan,4
+CBT,Angola,10
+DLG,United States,4
+ARW,Romania,4
+JSR,Bangladesh,6
+JNG,China,8
+DAT,China,6
+YHD,Canada,4
+BQS,Russia,8
+BVE,France,5
+UYL,Sudan,9
+LZY,China,8
+SKZ,Pakistan,7
+BFI,United States,9
+JYV,Finland,7
+BVC,Cape Verde,5
+MTS,Eswatini,7
+YGL,Canada,4
+MOD,United States,4
+CYO,Cuba,9
+YYF,Canada,4
+YBG,Canada,9
+SON,Vanuatu,4
+AVV,Australia,9
+SGD,Denmark,4
+ULY,Russia,10
+YQK,Canada,4
+OXB,Guinea-Bissau,9
+SUX,United States,7
+COU,United States,4
+PLQ,Lithuania,6
+KAO,Finland,6
+TTN,United States,4
+ARH,Russia,6
+KMS,Ghana,4
+KSD,Sweden,7
+WEF,China,7
+RGI,French Polynesia,5
+TXK,United States,5
+NOV,Angola,7
+JGS,China,7
+CIJ,Bolivia,4
+DEB,Hungary,6
+SOB,Hungary,6
+AZS,Dominican Republic,8
+KOK,Finland,6
+FNL,United States,7
+RHI,United States,5
+ELF,Sudan,8
+TBP,Peru,6
+SZA,Angola,5
+CMX,United States,4
+BJZ,Spain,8
+TGO,China,6
+HLH,China,4
+OTH,United States,4
+UBA,Brazil,4
+AQJ,Jordan,8
+ERS,Namibia,5
+SMA,Portugal,9
+TEE,Algeria,8
+JGN,China,5
+YQL,Canada,4
+TGM,Romania,4
+PTG,South Africa,7
+PLN,United States,4
+JDH,India,7
+NOJ,Russia,7
+GCC,United States,6
+MDQ,Argentina,5
+BQK,United States,6
+IFO,Ukraine,7
+KLV,Czech Republic,5
+GPA,Greece,10
+MHK,United States,5
+ALH,Australia,4
+ATM,Brazil,5
+YAP,Micronesia,4
+BMV,Vietnam,8
+AQA,Brazil,4
+VDA,Israel,8
+CCC,Cuba,8
+VVC,Colombia,4
+UPN,Mexico,6
+CIC,United States,5
+ADF,Turkey,7
+KCM,Turkey,6
+AAT,China,5
+COD,United States,7
+SCK,United States,9
+RGA,Argentina,4
+SCY,Ecuador,4
+TWF,United States,7
+TRW,Kiribati,5
+JGA,India,7
+JKG,Sweden,5
+BPX,China,10
+BHU,India,4
+OHD,North Macedonia,7
+BKY,Congo - Kinshasa,4
+ZOS,Chile,4
+YHY,Canada,4
+BUQ,Zimbabwe,7
+ORB,Sweden,7
+BLV,United States,9
+DDG,China,7
+YBC,Canada,4
+ROS,Argentina,8
+WJU,South Korea,7
+AVN,France,4
+DCM,France,4
+KAJ,Finland,6
+TOE,Tunisia,9
+PNI,Micronesia,4
+MSU,Lesotho,9
+BPT,United States,5
+BJI,United States,5
+HEK,China,6
+WAE,Saudi Arabia,9
+HJR,India,6
+QSF,Algeria,6
+RIB,Bolivia,4
+XCR,France,10
+PIX,Portugal,4
+DOY,China,5
+AOE,Turkey,7
+BTM,United States,7
+IPT,United States,4
+VIT,Spain,10
+ABR,United States,5
+ENY,China,9
+DLI,Vietnam,6
+PSG,United States,4
+BHQ,Australia,7
+NAO,China,4
+DIJ,France,6
+SJK,Brazil,7
+YQD,Canada,4
+PPN,Colombia,4
+PPG,American Samoa,9
+RES,Argentina,8
+YYY,Canada,4
+GGG,United States,9
+BUS,Georgia,5
+ZAL,Chile,5
+ILD,Spain,6
+SUV,Fiji,4
+BHI,Argentina,7
+GHA,Algeria,9
+CKS,Brazil,4
+LUO,Angola,6
+LKL,Norway,8
+EKO,United States,5
+GRI,United States,5
+SLM,Spain,6
+GYA,Bolivia,4
+TIN,Algeria,8
+PAH,United States,4
+KGF,Kazakhstan,10
+YWL,Canada,5
+GRV,Russia,7
+MSZ,Angola,6
+YYB,Canada,9
+ALO,United States,7
+MHQ,Finland,4
+OZZ,Morocco,8
+SHW,Saudi Arabia,10
+EUN,Morocco,7
+PED,Czech Republic,6
+ANI,United States,4
+YEI,Turkey,8
+PWQ,Kazakhstan,6
+RJL,Spain,4
+CMW,Cuba,8
+VXC,Mozambique,7
+AEB,China,5
+ANX,Norway,6
+PIH,United States,8
+YOL,Nigeria,8
+OKI,Japan,4
+UST,United States,6
+SNU,Cuba,9
+SFA,Tunisia,8
+AGF,France,5
+LEA,Australia,9
+DEA,Pakistan,4
+CNQ,Argentina,5
+MKG,United States,4
+DIN,Vietnam,4
+EGN,Sudan,4
+POR,Finland,4
+GER,Cuba,6
+MWX,South Korea,8
+BRD,United States,4
+LMT,United States,9
+KIM,South Africa,8
+TBJ,Tunisia,8
+TLE,Madagascar,4
+TAI,Yemen,9
+DEZ,Syria,10
+AUR,France,4
+AZR,Algeria,8
+JRH,India,7
+GAY,India,6
+GHB,The Bahamas,6
+RKS,United States,9
+JLR,India,4
+VII,Vietnam,6
+SPP,Angola,10
+VDZ,United States,4
+YYE,Canada,4
+CXB,Bangladesh,5
+ROP,Northern Mariana Islands,5
+SHP,China,6
+GDX,Russia,10
+MEI,United States,9
+AGT,Paraguay,10
+DRT,United States,4
+INL,United States,6
+MCX,Russia,7
+GEV,Sweden,4
+WUZ,China,4
+TAT,Slovakia,7
+DJG,Algeria,8
+CLM,United States,4
+YNG,United States,7
+CDV,United States,6
+PSS,Argentina,6
+JIU,China,8
+TUP,United States,4
+TKQ,Tanzania,4
+STC,United States,5
+AUC,Colombia,5
+DMU,India,6
+UAQ,Argentina,6
+PIB,United States,4
+WNH,China,6
+SVP,Angola,6
+PIR,United States,5
+GTE,Australia,4
+YSM,Canada,4
+AJR,Sweden,6
+LEH,France,6
+LBE,United States,7
+JNZ,China,7
+TEX,United States,5
+TUK,Pakistan,4
+RYK,Pakistan,8
+HGR,United States,5
+BEB,United Kingdom,4
+KID,Sweden,5
+CCN,Afghanistan,4
+PSD,Egypt,6
+CBH,Algeria,10
+UNK,United States,4
+WRG,United States,4
+UAK,Greenland,4
+LRE,Australia,4
+CIU,United States,5
+KMN,Congo - Kinshasa,7
+ABA,Russia,10
+PQI,United States,6
+YMT,Canada,4
+RIW,United States,6
+UTP,Thailand,10
+SHR,United States,7
+OMR,Romania,4
+UPB,Cuba,6
+GXF,Yemen,8
+DCN,Australia,9
+MCW,United States,4
+ISN,United States,5
+MJN,Madagascar,5
+BSK,Algeria,8
+YHU,Canada,6
+EAU,United States,6
+FMA,Argentina,4
+TCB,The Bahamas,5
+ZSA,The Bahamas,6
+FMN,United States,5
+SIR,Switzerland,4
+HRM,Algeria,8
+TBT,Brazil,5
+BLE,Sweden,6
+TML,Ghana,6
+AYP,Peru,8
+YAK,United States,6
+MFU,Zambia,5
+YQI,Canada,4
+NLK,Norfolk Island,4
+IYK,United States,5
+PRC,United States,6
+SFS,Philippines,7
+SDE,Argentina,6
+YFS,Canada,4
+MXZ,China,4
+OGX,Algeria,8
+CYS,United States,8
+MJM,Congo - Kinshasa,4
+BBK,Botswana,4
+CKB,United States,5
+SHD,United States,4
+JUJ,Argentina,8
+LCX,China,6
+GOU,Cameroon,10
+VHC,Angola,10
+EDL,Kenya,10
+EAR,United States,5
+DIK,United States,4
+UTN,South Africa,10
+TIQ,Northern Mariana Islands,7
+GME,Belarus,7
+KAC,Syria,10
+FSP,Saint Pierre and Miquelon,4
+HDF,Germany,6
+GCK,United States,5
+OWB,United States,6
+PPB,Brazil,5
+FRW,Botswana,5
+CLQ,Mexico,6
+OMC,Philippines,4
+TEQ,Turkey,8
+HYS,United States,4
+HIB,United States,5
+KCA,China,4
+GST,United States,5
+LKG,Kenya,4
+LBF,United States,6
+GOQ,China,10
+MZH,Turkey,8
+GYM,Mexico,6
+INI,Serbia,6
+LAR,United States,7
+ZHY,China,8
+VVZ,Algeria,8
+HOD,Yemen,8
+YRQ,Canada,7
+DEC,United States,7
+BAF,United States,7
+PMY,Argentina,6
+SAF,United States,7
+FJR,United Arab Emirates,10
+EJH,Saudi Arabia,9
+MZI,Mali,7
+CEZ,United States,5
+KRF,Sweden,5
+LYC,Sweden,5
+WIC,United Kingdom,4
+UTT,South Africa,4
+CXI,Kiribati,5
+CYZ,Philippines,5
+ARU,Brazil,5
+ESR,Chile,6
+GJL,Algeria,6
+JSH,Greece,5
+TFF,Brazil,5
+JST,United States,5
+LNO,Australia,5
+ESC,United States,4
+CTC,Argentina,8
+RAH,Saudi Arabia,8
+PSZ,Bolivia,4
+INU,Nauru,5
+TPQ,Mexico,6
+MSL,United States,5
+ZAT,China,7
+CMG,Brazil,5
+GAL,United States,5
+OZH,Ukraine,7
+UND,Afghanistan,4
+MAK,Sudan,4
+TUI,Saudi Arabia,8
+IRJ,Argentina,8
+KRY,China,7
+MXV,Mongolia,6
+SCT,Yemen,10
+RSD,The Bahamas,5
+YJT,Canada,9
+TGR,Algeria,8
+MCN,United States,4
+APN,United States,7
+CKZ,Turkey,4
+KUT,Georgia,6
+TNJ,Indonesia,4
+BYC,Bolivia,5
+LBL,United States,5
+MMH,United States,5
+IQN,China,4
+OND,Namibia,8
+TTU,Morocco,6
+IMT,United States,4
+HMI,China,6
+INZ,Algeria,8
+ATY,United States,5
+LPK,Russia,6
+MDK,Congo - Kinshasa,6
+MEG,Angola,5
+ELU,Algeria,8
+FOD,United States,4
+AQG,China,8
+YET,Canada,4
+HOF,Saudi Arabia,9
+ENF,Finland,5
+PKB,United States,5
+WLS,Wallis and Futuna,5
+SUJ,Romania,6
+DIU,India,4
+CFG,Cuba,6
+EQS,Argentina,6
+GLH,United States,6
+TOM,Mali,5
+DYR,Russia,10
+ESU,Morocco,5
+CHG,China,4
+IUE,Niue,6
+ZAJ,Afghanistan,4
+BST,Afghanistan,4
+YVB,Canada,4
+YXR,Canada,4
+ABC,Spain,7
+PCR,Colombia,4
+ALS,United States,7
+BOY,Burkina Faso,10
+YBR,Canada,4
+LPP,Finland,4
+LUQ,Argentina,8
+YCH,Canada,6
+SVL,Finland,6
+SCV,Romania,4
+UGA,Mongolia,4
+FRC,Brazil,4
+ULO,Mongolia,4
+KHS,Oman,6
+BUJ,Algeria,5
+CCK,Cocos [Keeling] Islands,6
+MVP,Colombia,4
+CDC,United States,7
+VCT,United States,8
+SRJ,Bolivia,4
+VIL,Morocco,8
+PDV,Bulgaria,6
+THQ,China,8
+RGS,Spain,5
+CRA,Romania,6
+SLD,Slovakia,6
+CLN,Brazil,4
+IKS,Russia,9
+DLD,Norway,4
+AFA,Argentina,6
+YCL,Canada,4
+AHU,Morocco,5
+NGE,Cameroon,7
+HLY,United Kingdom,6
+IXD,India,6
+MSE,United Kingdom,8
+NAJ,Azerbaijan,10
+PDA,Colombia,4
+BNX,Bosnia and Herzegovina,7
+PUB,United States,9
+TMX,Algeria,8
+LWN,Armenia,9
+AJI,Turkey,4
+MPW,Ukraine,7
+EBD,Sudan,8
+LUD,Namibia,4
+ODE,Denmark,4
+HOI,French Polynesia,10
+ANE,France,4
+AIT,Cook Islands,4
+LOO,Algeria,10
+VOL,Greece,8
+HUU,Peru,6
+BAY,Romania,4
+MXX,Sweden,4
+GYS,China,5
+ANS,Peru,6
+FUG,China,6
+PLX,Kazakhstan,9
+MWA,United States,6
+HVD,Mongolia,8
+DWD,Saudi Arabia,8
+IAG,United States,8
+ISE,Turkey,8
+HZH,China,5
+MZO,Cuba,6
+MBX,Slovenia,6
+DLZ,Mongolia,6
+ELG,Algeria,8
+VRK,Finland,4
+JAU,Peru,8
+PRA,Argentina,5
+OSI,Croatia,6
+SAK,Iceland,4
+YQA,Canada,4
+ULG,Mongolia,6
+AAC,Egypt,9
+BCA,Cuba,4
+SKU,Greece,8
+MMJ,Japan,4
+GAO,Cuba,6
+CHM,Peru,4
+HZG,China,5
+VDB,Norway,5
+CAL,United Kingdom,9
+OLA,Norway,7
+NTY,South Africa,7
+IQM,China,4
+USQ,Turkey,7
+BYN,Mongolia,8
+COQ,Mongolia,7
+BGC,Portugal,4
+GAF,Tunisia,8
+ADK,United States,6
+ULU,Uganda,9
+VTU,Cuba,4
+GMR,French Polynesia,4
+ERH,Morocco,9
+YVP,Canada,4
+DLE,France,5
+MPA,Namibia,6
+LTQ,France,4
+IPC,Chile,10
+HBT,Saudi Arabia,10
+BYM,Cuba,4
+CER,France,6
+ONQ,Turkey,4
+TID,Algeria,8
+LGS,Argentina,7
+FAH,Afghanistan,4
+GGS,Argentina,7
+IGA,The Bahamas,5
+IPH,Malaysia,4
+CKH,Russia,4
+RSA,Argentina,6
+BFO,Zimbabwe,4
+BMW,Algeria,5
+YZU,Canada,4
+KSO,Greece,7
+IEG,Poland,6
+KZI,Greece,4
+MOA,Cuba,4
+MYG,The Bahamas,5
+CHR,France,10
+PZY,Slovakia,4
+ATC,The Bahamas,5
+PAV,Brazil,4
+VDM,Argentina,7
+PMG,Brazil,4
+XLS,Senegal,4
+KWG,Ukraine,6
+TTA,Morocco,4
+EPU,Estonia,6
+MVR,Cameroon,5
+PJA,Sweden,6
+CBG,United Kingdom,4
+LRL,Togo,6
+KMP,Namibia,6
+LQN,Afghanistan,5
+OMO,Bosnia and Herzegovina,6
+UUN,Mongolia,5
+RVY,Uruguay,4
+PHB,Brazil,5
+RCQ,Argentina,8
+TAY,Estonia,4
+GUW,Kazakhstan,8
+VME,Argentina,6
+GPO,Argentina,6
+LPX,Latvia,5
+UNR,Mongolia,6
+ASK,Ivory Coast,8
+RCU,Argentina,5
+SQQ,Lithuania,10
+ACZ,Iran,9
