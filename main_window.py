@@ -1,8 +1,10 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import parser
+import os
 
-class Ui_main_window(object):
+class Ui_main_window(QtWidgets.QMainWindow):
     def setupUi(self, main_window):
+
         main_window.setObjectName("main_window")
         main_window.resize(1500, 1000)
         main_window.setMinimumSize(QtCore.QSize(1500, 1000))
@@ -126,8 +128,9 @@ class Ui_main_window(object):
         print('This feature has not been realized yet!')
 
     def add_info_from_html(self):
-        print('Input file names via space:')
-        airports_list = parser.html_parser(input().split())
+        file_names = QtWidgets.QFileDialog.getOpenFileNames(self, 'Open file', '/home')[0]
+        airports_list = parser.html_parser(file_names)
+
         self.table_widget.setRowCount(len(airports_list))
         row_counter = 0
 
